@@ -1,0 +1,24 @@
+{
+  "name": "hardhat-template",
+  "version": "1.0.0",
+  "description": "Hardhat template for easy installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hardhat",
+    "template"
+  ],
+  "author": "ad-h0c",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.12.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "ethers": "^5.7.0",
+    "hardhat-deploy": "^0.11.12"
+  }
+}
