@@ -28,7 +28,7 @@ This is a sample hardhat template. You may need to update the latest version in 
 
 Open the terminal and execute the commands below.
 
-```
+```shell
 git clone git@github.com:Ad-h0c/Hardhat-template.git
 cd hardhat-template
 npm install
