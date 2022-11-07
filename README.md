@@ -32,7 +32,10 @@ Open the terminal and execute the commands below.
 git clone git@github.com:Ad-h0c/Hardhat-template.git
 cd hardhat-template
 npm install
-
 ```
+
+#### Alternative method
+
+Click on use template to create new template to your github accoubt.
 
 After cloning the template to the local machine, you need to add .env file to the .gitignore file. Otherwise, you may risk compromising the api and private keys.
