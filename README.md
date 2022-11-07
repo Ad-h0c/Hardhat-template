@@ -36,7 +36,7 @@ npm install
 
 #### Alternative method
 
-Click on use this template to create a new template to your github accoubt.
+Click on `use this template` to create a new template to your github accoubt.
 
 <hr>
 
