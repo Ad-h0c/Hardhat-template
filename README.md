@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This is sample hardhat template. You may need to check the latest version in package.json file.
+This is a sample hardhat template. You may need to update the latest version in package.json file.
 
 ### Requirements
 
@@ -36,7 +36,7 @@ npm install
 
 #### Alternative method
 
-Click on use template to create new template to your github accoubt.
+Click on use this template to create a new template to your github accoubt.
 
 <hr>
 
