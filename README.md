@@ -38,4 +38,6 @@ npm install
 
 Click on use template to create new template to your github accoubt.
 
+<hr>
+
 After cloning the template to the local machine, you need to add .env file to the .gitignore file. Otherwise, you may risk compromising the api and private keys.
